@@ -1,2 +1,12 @@
-how are you
-fine
+1. Login to your GitHub account and on the search bar search for the profile whose repository you want to Fork
+2. Then select the repository you want to Fork
+3 .Click on the Fork option on the top right corner to Fork the repository
+4 .After this go to your profile and check if it is showing the forked repository
+5. Then open the repository you want to fork and open the file you want to make changes
+6. Edit and make the changes in the file 
+7. Then click on the ‘Commit changes’ option
+8. Then go to the ‘Pull requests’ section and click on the ‘New pull request’ option
+9. Then click on ‘create new request’ option
+10. Then rename the file and leave a comment(if you wish to) and then Click on ‘create pull request’
+11. Then the other person will receive the pull request to merge the files
+12.Then he has to check the file and accept the ‘merge pull request’ option and ‘confirm merge’ if he wants to merge it
